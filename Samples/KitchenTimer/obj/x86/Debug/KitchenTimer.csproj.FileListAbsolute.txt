@@ -1,0 +1,6 @@
+/media/ed/Downloads/Projects/Programming/CSGUI/KitchenTimer/bin/Debug/KitchenTimer.exe
+/media/ed/Downloads/Projects/Programming/CSGUI/KitchenTimer/bin/Debug/KitchenTimer.pdb
+/media/ed/Downloads/Projects/Programming/CSGUI/KitchenTimer/obj/x86/Debug/KitchenTimer.csproj.AssemblyReference.cache
+/media/ed/Downloads/Projects/Programming/CSGUI/KitchenTimer/obj/x86/Debug/KitchenTimer.csproj.CoreCompileInputs.cache
+/media/ed/Downloads/Projects/Programming/CSGUI/KitchenTimer/obj/x86/Debug/KitchenTimer.exe
+/media/ed/Downloads/Projects/Programming/CSGUI/KitchenTimer/obj/x86/Debug/KitchenTimer.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5563609C-69A8-4201-A4B3-E04F6FAAE0D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.KitchenTimer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="utils/cSoundPlayer.cs">
+    <Files>
+      <File FileName="GUI/pnlMainFormLogic.cs" Line="86" Column="25" />
+      <File FileName="utils/cCounter.cs" Line="6" Column="32" />
+      <File FileName="utils/cSoundPlayer.cs" Line="7" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KitchenTimer" expanded="True">
+            <Node name="KitchenTimer" expanded="True">
+              <Node name="GUI" expanded="True" />
+              <Node name="utils" expanded="True">
+                <Node name="cSoundPlayer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
