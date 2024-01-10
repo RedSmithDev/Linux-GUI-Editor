@@ -37,25 +37,41 @@ Create the project -> Edit the GUI interface -> Click the Mono button on the too
 
 ## Installation
 
-### Debian / Ubuntu
+### Debian / Ubuntu / Mint
 
-apt get install monodevelop
+#### First install Mono Develop, generally this will work :
 
-download from the folder Releases  LCSF_Release_vX.X.Alpha.zip unzip the file 
+```bash
+sudo apt install ca-certificates gnupg
+sudo gpg --homedir /tmp --no-default-keyring --keyring /usr/share/keyrings/mono-official-archive-keyring.gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+echo "deb [signed-by=/usr/share/keyrings/mono-official-archive-keyring.gpg] https://download.mono-project.com/repo/ubuntu stable-focal main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+sudo apt update
+sudo apt install monodevelop
+```
 
+But you can refer to the proper documentation :
+
+https://www.mono-project.com/download/stable/
+
+#### After install Mono Develop :
+
+Download from the folder Releases  LCSF_Release_vX.X.Alpha.zip unzip the file
+
+```bash
 bash: mono ./LCSF_Editor.exe
+```
 
 ### Events code
 
 ```C#
-private void Controls_Click(Control sender, efrmMainControls ctlName, EventArgs e)  
-    {  
-        switch(ctlName)  
-        {  
+private void Controls_Click(Control sender, efrmMainControls ctlName, EventArgs e)
+    {
+        switch(ctlName)
+        {
 	        case efrmMainControls.btn0:
 		        btn0.Text = "Clicked";
 	        break;
-        }  
+        }
     }
 }
 ```
@@ -68,6 +84,3 @@ private void Controls_Click(Control sender, efrmMainControls ctlName, Even
 ### Open Source
 
 will be .
-
-
-
