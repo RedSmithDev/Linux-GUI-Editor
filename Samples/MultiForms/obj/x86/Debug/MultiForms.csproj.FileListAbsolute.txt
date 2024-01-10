@@ -1,0 +1,6 @@
+/media/ed/Downloads/Projects/Programming/CSGUI/MultiForms/bin/Debug/MultiForms.exe
+/media/ed/Downloads/Projects/Programming/CSGUI/MultiForms/bin/Debug/MultiForms.pdb
+/media/ed/Downloads/Projects/Programming/CSGUI/MultiForms/obj/x86/Debug/MultiForms.csproj.AssemblyReference.cache
+/media/ed/Downloads/Projects/Programming/CSGUI/MultiForms/obj/x86/Debug/MultiForms.csproj.CoreCompileInputs.cache
+/media/ed/Downloads/Projects/Programming/CSGUI/MultiForms/obj/x86/Debug/MultiForms.exe
+/media/ed/Downloads/Projects/Programming/CSGUI/MultiForms/obj/x86/Debug/MultiForms.pdb

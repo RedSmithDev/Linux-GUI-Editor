@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5563609C-69A8-4201-A4B3-E04F6FAAE0D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiForms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GUI/pnlAnotherFormLogic.cs">
+    <Files>
+      <File FileName="GUI/pnlMainFormLogic.cs" Line="30" Column="33" />
+      <File FileName="GUI/pnlAnotherFormLogic.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiForms" expanded="True">
+            <Node name="MultiForms" expanded="True">
+              <Node name="GUI" expanded="True">
+                <Node name="pnlAnotherFormLogic.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
