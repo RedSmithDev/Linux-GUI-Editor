@@ -25,10 +25,6 @@ Create the project -> Edit the GUI interface -> Click the Mono button on the too
 
 ![](Images/03-EditingForm.png)
 
-####  Final result:
-
-![](Images/04-FinalForm.png)
-
 
 #### Mono project automatically generated (ready to code):
 
