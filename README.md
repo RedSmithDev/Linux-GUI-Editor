@@ -76,6 +76,7 @@ private void Controls_Click(Control sender, efrmMainControls ctlName, Even
 
 *  The ListBox the HEIGHT can't be changed using drag , only using properties panel
 * The preview writes the actual form so it's "save and preview"
+* Redo  buggy
 
 ### Open Source
 
