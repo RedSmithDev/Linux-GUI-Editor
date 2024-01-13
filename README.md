@@ -10,10 +10,12 @@ Create the project -> Edit the GUI interface -> Click the Mono button on the too
 
 *note: the executable created in Linux can run on Windows also*
 
+### Creating a simple project in Linux
+
+![](Images/KitchenTimer_editing.gif)
+
 ### Screenshots
-
 #### Project creation:
-
 
 ![](Images/01-CreateProject.png)
 
@@ -74,6 +76,8 @@ private void Controls_Click(Control sender, efrmMainControls ctlName, Even
 
 ### Bugs
 
+
+* Editing Forms while the MonoDevelop project is open causes MonoDevelop to glitch, close and reopen MonoDevelop or unload reload the project. (will be fixed)
 *  The ListBox the HEIGHT can't be changed using drag , only using properties panel
 * The preview writes the actual form so it's "save and preview"
 * Redo  buggy
